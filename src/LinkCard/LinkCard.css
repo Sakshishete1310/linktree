@@ -1,0 +1,50 @@
+.Link-Card{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow:2px 2px  1px 2px rgb(0 ,0, 0,0.7);
+    cursor: pointer;
+}
+.container-link-handle{
+    display: flex;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.handle-name{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin : 10px;
+}
+.Card-img{
+    height: 60px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    box-shadow: 0px 0px 2px 2px tomato;
+    background-color:crimson;
+
+}
+.handle-description{
+    margin-top: -10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.bg-twitter{
+  background-color:#3242a8 ;
+}
+.bg-facebook{
+    background-color: black;
+    color: white;
+}
+.bg-linkdin{
+    background-color: #3242a8;
+}
+.username{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.hyperlink{
+    text-decoration: none;
+    color: white;
+}
